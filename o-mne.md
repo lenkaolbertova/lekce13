@@ -9,8 +9,8 @@ Ahoj,
 jsem Lenka. Umím skákat po jedné noze. Pravá je lepší než levá. 
 
 
-- pravá noha
-- levá noha
+- pravá **noha**
+- levá _noha_
 
 Také mám ruce. 
 
