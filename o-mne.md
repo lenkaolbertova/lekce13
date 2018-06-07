@@ -4,7 +4,9 @@ title: O mně
 permalink: /o-mne/
 ---
 
-Tady napiš něco o sobě nebo o svém blogu!
+Ahoj, 
+
+jsem Lenka. Umím skákat po jedné noze. Pravá je lepší než levá. 
 
 ---
 
