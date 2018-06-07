@@ -12,6 +12,11 @@ jsem Lenka. Umím skákat po jedné noze. Pravá je lepší než levá.
 - pravá noha
 - levá noha
 
+Také mám ruce. 
+
+1. pravá ruka
+2. levá ruka
+
 
 
 
